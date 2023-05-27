@@ -10,7 +10,7 @@ The tabular method involves analyzing structured data, such as patient demograph
 
 ## X-ray Image Analysis
 
-Apart from the tabular approach, this project integrates X-ray image analysis. X-ray images offer additional visual information that can aid in detecting heart diseases. We leverage deep learning techniques and convolutional neural networks (CNNs) to process the X-ray images. The models are trained to identify patterns, anomalies, and specific features indicative of heart conditions.Test branching
+Apart from the tabular approach, this project integrates X-ray image analysis. X-ray images offer additional visual information that can aid in detecting heart diseases. We leverage deep learning techniques and convolutional neural networks (CNNs) to process the X-ray images. The models are trained to identify patterns and anamolies.
 
 ## Benefits
 
@@ -34,3 +34,4 @@ The heart disease prediction project has significant potential for future advanc
 ## Conclusion
 
 The heart disease prediction project utilizing tabular and X-ray analysis offers a multi-dimensional approach to improve accuracy and early detection of heart diseases. By combining structured data analysis with deep learning on X-ray images, we aim to provide valuable insights and predictive capabilities for healthcare professionals. This project has the potential to make a significant impact in the field of cardiology and contribute to better patient outcomes.
+
