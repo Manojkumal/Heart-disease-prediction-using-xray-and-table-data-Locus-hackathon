@@ -18,7 +18,7 @@ Apart from the tabular approach, this project integrates X-ray image analysis. X
 
 2. Early Detection: Early detection of heart diseases is critical for timely interventions and better patient outcomes. This project contributes to identifying potential cardiac issues at an early stage, facilitating timely medical attention.
 
-3. Personalized Approach: The predictive models developed in this project take into account individual patient data and X-ray images. This personalized approach helps in tailoring treatment plans and interventions based on specific risk factors and characteristics.
+3.Approach: The predictive models developed in this project take into account individual patient data and X-ray images. This personalized approach helps in tailoring treatment plans and interventions based on specific risk factors and characteristics.
 
 4. Medical Decision Support: The predictive models can serve as valuable decision support tools for healthcare professionals. By providing reliable predictions, doctors can make more informed decisions, optimize treatment strategies, and improve patient care.
 
