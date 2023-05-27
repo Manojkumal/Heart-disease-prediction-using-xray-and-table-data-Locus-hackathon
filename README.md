@@ -10,7 +10,7 @@ The tabular method involves analyzing structured data, such as patient demograph
 
 ## X-ray Image Analysis
 
-Apart from the tabular approach, this project integrates X-ray image analysis. X-ray images offer additional visual information that can aid in detecting heart diseases. We leverage deep learning techniques and convolutional neural networks (CNNs) to process the X-ray images. The models are trained to identify patterns, anomalies, and specific features indicative of heart conditions.
+Apart from the tabular approach, this project integrates X-ray image analysis. X-ray images offer additional visual information that can aid in detecting heart diseases. We leverage deep learning techniques and convolutional neural networks (CNNs) to process the X-ray images. The models are trained to identify patterns, anomalies, and specific features indicative of heart conditions.Test branching
 
 ## Benefits
 
